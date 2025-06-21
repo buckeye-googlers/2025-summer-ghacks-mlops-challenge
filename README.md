@@ -1,5 +1,7 @@
 # gcp-mlops-demo
 
+> Updated on 2025-06-20
+
 This is a sample project that illustrates how to use [Vertex AI](https://cloud.google.com/vertex-ai) on GCP for building and running [MLOps workflows](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation).
 
 ## Steps to run the code on Vertex AI
