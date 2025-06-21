@@ -1,4 +1,5 @@
 steps:
+  # Originally for Google Cloud Source repo, re-adapted for GitHub on 2025-06-20
   - id: 'Clone the repository'
     name: gcr.io/cloud-builders/git
     entrypoint: git
