@@ -1,8 +1,13 @@
-# gcp-mlops-demo
+# ⚠️ [Archived] GCP MLOps Demo ⚠️
 
-> Updated on 2025-06-20
+>[!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> - **Original Challenge:** [gHacks - MLOps on GCP](https://ghacks.dev/hacks/mlops-on-gcp/)
+> - **Archived:** 2025-07-03 by @KemingHe
+> - **Archive Reason:** Challenge completed
 
-This is a sample project that illustrates how to use [Vertex AI](https://cloud.google.com/vertex-ai) on GCP for building and running [MLOps workflows](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation).
+(Outdated) This is a sample project that illustrates how to use [Vertex AI](https://cloud.google.com/vertex-ai) on GCP for building and running [MLOps workflows](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation).
 
 ## Steps to run the code on Vertex AI
 
